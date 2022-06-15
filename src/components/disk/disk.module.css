@@ -1,0 +1,36 @@
+.disk {
+    margin-top: 20px;
+    position: relative;
+}
+
+.buttons {
+    display: flex;
+}
+
+.create {
+    margin-left: 10px;
+}
+
+button {
+    padding: 5px;
+    border: solid 2px #566885;
+    padding: 3px 5px;
+    background-color: #fff;
+    cursor: pointer;
+}
+
+.label {
+    cursor: pointer;
+}
+
+.upload {
+    border: solid 2px #566885;
+    padding: 3px 5px;
+    margin-left: 10px;
+    background-color: #fff;
+    cursor: pointer;
+}
+
+.input {
+    display: none;
+}
